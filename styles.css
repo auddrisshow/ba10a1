@@ -1,0 +1,94 @@
+body {
+
+}
+
+
+
+
+
+.name {
+    font-size: 25px;
+    color: tomato;
+    font-weight: bold;
+}
+
+.btn {
+    width: 200px;
+    height: 45px;
+    background-color: aqua;
+    color: black;
+    border: 2px;
+    border-radius: 5px;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 200px;
+
+
+}
+.banner {
+    background-image: url(./images/Hero-bg.png);
+    
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+.btn2 {
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+}
+
+.web {
+    margin: 50px 200px;
+    background-color: aliceblue;
+}
+
+.why {
+    margin-top: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.web_content {
+    margin: 20px 100px;
+    background-color:azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    
+}
+.web_text {
+    padding-left: 50px;
+    gap: 10px;
+}
+.web_content2{
+    margin: 20px 100px;
+    background-color:ghostwhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.web_text2 {
+    padding-right: 50px;
+    gap: 10px;
